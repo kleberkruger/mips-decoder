@@ -1,2 +1,2 @@
-# mips_decoder
+# MIPS Decoder
 MIPS Instructions Decoder
